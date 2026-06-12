@@ -9,6 +9,6 @@
 <p align="center">
   <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@itadorislop">prns</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://straw.page/make?id=denjislop">spage</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://denjislop.straw.page/">spage</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
